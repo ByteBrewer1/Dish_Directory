@@ -49,7 +49,7 @@ npm i
 A recipe web application based not only on a list of recipes with ingredients but a database created by food lovers, for food lovers. Search through thousands of the best recipes worldwide and find what you're looking for without leaving your daily routine Give it a go!
 
 ## Development
-To contribute to the development of the DE Project tool, you can fork the repository and make changes as necessary. Please ensure that any changes are thoroughly tested before submitting a pull request.
+To contribute to the development of the Project, you can fork the repository and make changes as necessary. Please ensure that any changes are thoroughly tested before submitting a pull request.
 
 ## License
 This program is released under the MIT License. See LICENSE.txt for more information.
